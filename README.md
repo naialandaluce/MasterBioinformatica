@@ -1,2 +1,3 @@
 # MasterBioinformatica
-MASTER 
+ANÁLISIS DE PROTEÍNAS/ESTRUCTURA
+
